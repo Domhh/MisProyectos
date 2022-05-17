@@ -1,2 +1,2 @@
 # MisProyectos
-Proyectos personales, pruebas técnicas y más...
+Proyectos personale
